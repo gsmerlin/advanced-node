@@ -4,6 +4,8 @@
   "description": "",
   "main": "loop.js",
   "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^4.5.6",
     "tsc": "^1.20150623.0"
   },
   "devDependencies": {
